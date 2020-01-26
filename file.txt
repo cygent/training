@@ -1,2 +1,1 @@
-my first git commit
-F1 brach changes
+My git commit
